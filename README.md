@@ -143,7 +143,8 @@ github-support-chatbot/
 ```
 
 ### Demo
-[Link to Demo Video]([https://example.com/demo](https://www.loom.com/share/979d2fd225c9424e97530482f675ca4f?sid=6ad974f6-cc34-4c6c-b349-eb2e78e50d33))
+
+[Link to demo video](https://www.loom.com/share/979d2fd225c9424e97530482f675ca4f?sid=6ad974f6-cc34-4c6c-b349-eb2e78e50d33)
 
 
 ### Contributors
