@@ -1,0 +1,601 @@
+category,intent,user_input,bot_response,complexity,tone,context
+git,branch,What is git checkout?,Git checkout is used to switch branches or restore files.,simple,informal,advanced
+greeting,welcome,Hey,Hey there! What would you like to learn about Git/GitHub?,simple,informal,beginner
+greeting,welcome,Hello,Hello! How can I help you with Git or GitHub today?,complex,technical,intermediate
+git,commit,What is git commit -m?,"The -m flag lets you add a commit message directly: git commit -m ""fix: bug fixed""",complex,formal,advanced
+error,merge_conflict,How to prevent merge conflicts?,Prevent conflicts by communicating with team and frequently pulling changes.,medium,informal,intermediate
+git,commit,How do I commit changes?,"To commit changes, use 'git commit -m ""your message""'.",complex,technical,advanced
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",simple,technical,advanced
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,simple,formal,advanced
+git,branch,What is git checkout?,Git checkout is used to switch branches or restore files.,complex,informal,intermediate
+error,merge_conflict,What causes merge conflicts?,Merge conflicts occur when different branches modify the same lines of code.,medium,technical,intermediate
+git,commit,How do I commit changes?,"To commit changes, use 'git commit -m ""your message""'.",medium,informal,beginner
+git,commit,What is git commit -m?,"The -m flag lets you add a commit message directly: git commit -m ""fix: bug fixed""",complex,formal,intermediate
+error,merge_conflict,"Got merge conflict, what now?","Open the conflicting files, choose which changes to keep, then commit.",medium,technical,beginner
+git,commit,What is git commit -m?,"The -m flag lets you add a commit message directly: git commit -m ""fix: bug fixed""",medium,formal,intermediate
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,medium,formal,advanced
+greeting,welcome,Good morning,Good morning! How can I assist you with version control today?,simple,technical,beginner
+git,commit,What is git commit -m?,"The -m flag lets you add a commit message directly: git commit -m ""fix: bug fixed""",medium,informal,intermediate
+git,commit,How to write commit messages?,Write clear commit messages describing what changed and why.,simple,formal,beginner
+greeting,welcome,How are you?,Hello! I'm doing well and ready to help with your questions!,medium,technical,beginner
+git,branch,How to switch branches?,Switch branches using 'git checkout branch-name' or 'git switch branch-name'.,complex,formal,advanced
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",simple,informal,advanced
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,simple,formal,advanced
+git,commit,How do I commit changes?,"To commit changes, use 'git commit -m ""your message""'.",complex,formal,beginner
+git,branch,How do I create a branch?,Create a new branch with 'git branch branch-name' or 'git checkout -b branch-name'.,simple,formal,advanced
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",simple,informal,beginner
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,medium,technical,beginner
+error,merge_conflict,What causes merge conflicts?,Merge conflicts occur when different branches modify the same lines of code.,simple,formal,intermediate
+greeting,welcome,Hello,Hello! How can I help you with Git or GitHub today?,simple,formal,intermediate
+greeting,welcome,Hello,Hello! How can I help you with Git or GitHub today?,complex,formal,beginner
+git,commit,What is git commit -m?,"The -m flag lets you add a commit message directly: git commit -m ""fix: bug fixed""",complex,technical,beginner
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,medium,informal,advanced
+greeting,welcome,Good morning,Good morning! How can I assist you with version control today?,complex,formal,advanced
+git,branch,How to switch branches?,Switch branches using 'git checkout branch-name' or 'git switch branch-name'.,medium,technical,beginner
+error,merge_conflict,How to prevent merge conflicts?,Prevent conflicts by communicating with team and frequently pulling changes.,medium,informal,beginner
+error,merge_conflict,"Got merge conflict, what now?","Open the conflicting files, choose which changes to keep, then commit.",simple,informal,beginner
+error,merge_conflict,What causes merge conflicts?,Merge conflicts occur when different branches modify the same lines of code.,complex,informal,intermediate
+git,commit,How to write commit messages?,Write clear commit messages describing what changed and why.,complex,technical,intermediate
+git,branch,What is git checkout?,Git checkout is used to switch branches or restore files.,simple,formal,intermediate
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",complex,formal,advanced
+greeting,welcome,Hello,Hello! How can I help you with Git or GitHub today?,medium,technical,intermediate
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,medium,formal,beginner
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",medium,informal,advanced
+greeting,welcome,How are you?,Hello! I'm doing well and ready to help with your questions!,complex,technical,advanced
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,complex,technical,intermediate
+greeting,welcome,Hi there,Hi! I'm here to assist with your Git and GitHub questions.,complex,informal,beginner
+git,branch,How do I create a branch?,Create a new branch with 'git branch branch-name' or 'git checkout -b branch-name'.,complex,technical,intermediate
+git,commit,How do I commit changes?,"To commit changes, use 'git commit -m ""your message""'.",complex,technical,intermediate
+greeting,welcome,Good morning,Good morning! How can I assist you with version control today?,simple,informal,beginner
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",complex,formal,advanced
+git,branch,How do I create a branch?,Create a new branch with 'git branch branch-name' or 'git checkout -b branch-name'.,complex,formal,intermediate
+git,commit,How do I commit changes?,"To commit changes, use 'git commit -m ""your message""'.",medium,technical,beginner
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",medium,formal,beginner
+greeting,welcome,Hey,Hey there! What would you like to learn about Git/GitHub?,complex,informal,advanced
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,medium,formal,advanced
+greeting,welcome,Hello,Hello! How can I help you with Git or GitHub today?,medium,informal,intermediate
+error,merge_conflict,How to prevent merge conflicts?,Prevent conflicts by communicating with team and frequently pulling changes.,simple,technical,beginner
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,simple,informal,beginner
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,medium,technical,beginner
+error,merge_conflict,How to prevent merge conflicts?,Prevent conflicts by communicating with team and frequently pulling changes.,simple,technical,intermediate
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,complex,technical,advanced
+git,branch,What is git checkout?,Git checkout is used to switch branches or restore files.,complex,informal,beginner
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,complex,technical,intermediate
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,simple,informal,intermediate
+git,branch,What is git checkout?,Git checkout is used to switch branches or restore files.,medium,informal,advanced
+greeting,welcome,Hi there,Hi! I'm here to assist with your Git and GitHub questions.,simple,formal,beginner
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,medium,formal,advanced
+git,commit,How to write commit messages?,Write clear commit messages describing what changed and why.,simple,technical,advanced
+git,commit,What's the command to commit?,Use 'git commit' to save your changes. Add a message with -m flag.,medium,formal,advanced
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,medium,informal,beginner
+git,commit,What is git commit -m?,"The -m flag lets you add a commit message directly: git commit -m ""fix: bug fixed""",simple,technical,intermediate
+greeting,welcome,How are you?,Hello! I'm doing well and ready to help with your questions!,medium,informal,advanced
+git,branch,How do I create a branch?,Create a new branch with 'git branch branch-name' or 'git checkout -b branch-name'.,complex,technical,advanced
+greeting,welcome,Hey,Hey there! What would you like to learn about Git/GitHub?,simple,technical,intermediate
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",medium,formal,intermediate
+greeting,welcome,Hey,Hey there! What would you like to learn about Git/GitHub?,complex,technical,advanced
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",simple,formal,beginner
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",simple,informal,beginner
+git,commit,How to write commit messages?,Write clear commit messages describing what changed and why.,medium,formal,intermediate
+greeting,welcome,Hi there,Hi! I'm here to assist with your Git and GitHub questions.,simple,informal,intermediate
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,complex,informal,advanced
+git,branch,How do I create a branch?,Create a new branch with 'git branch branch-name' or 'git checkout -b branch-name'.,complex,formal,advanced
+error,merge_conflict,"Got merge conflict, what now?","Open the conflicting files, choose which changes to keep, then commit.",complex,technical,intermediate
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,simple,formal,intermediate
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",simple,formal,advanced
+greeting,welcome,How are you?,Hello! I'm doing well and ready to help with your questions!,simple,technical,advanced
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,complex,informal,beginner
+git,commit,How do I commit changes?,"To commit changes, use 'git commit -m ""your message""'.",complex,technical,advanced
+error,merge_conflict,Tools for resolving conflicts?,Use tools like VS Code or GitKraken to resolve conflicts visually.,simple,formal,advanced
+greeting,welcome,Good morning,Good morning! How can I assist you with version control today?,medium,formal,beginner
+greeting,welcome,Good morning,Good morning! How can I assist you with version control today?,simple,technical,advanced
+git,commit,How do I commit changes?,"To commit changes, use 'git commit -m ""your message""'.",simple,informal,intermediate
+error,merge_conflict,"Got merge conflict, what now?","Open the conflicting files, choose which changes to keep, then commit.",complex,technical,advanced
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,medium,informal,intermediate
+greeting,welcome,How are you?,Hello! I'm doing well and ready to help with your questions!,complex,informal,advanced
+error,merge_conflict,"Got merge conflict, what now?","Open the conflicting files, choose which changes to keep, then commit.",complex,technical,advanced
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,complex,technical,beginner
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,complex,informal,intermediate
+greeting,welcome,Hi there,Hi! I'm here to assist with your Git and GitHub questions.,simple,formal,beginner
+greeting,welcome,Good morning,Good morning! How can I assist you with version control today?,complex,technical,beginner
+git,branch,How do I create a branch?,Create a new branch with 'git branch branch-name' or 'git checkout -b branch-name'.,medium,informal,advanced
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",simple,formal,intermediate
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",simple,informal,advanced
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,medium,informal,beginner
+error,merge_conflict,What causes merge conflicts?,Merge conflicts occur when different branches modify the same lines of code.,complex,technical,beginner
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,simple,informal,intermediate
+greeting,welcome,Hi there,Hi! I'm here to assist with your Git and GitHub questions.,medium,informal,intermediate
+greeting,welcome,Hey,Hey there! What would you like to learn about Git/GitHub?,medium,formal,beginner
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,simple,informal,intermediate
+error,merge_conflict,How to prevent merge conflicts?,Prevent conflicts by communicating with team and frequently pulling changes.,complex,informal,advanced
+git,branch,What is git checkout?,Git checkout is used to switch branches or restore files.,simple,formal,beginner
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,simple,technical,beginner
+error,merge_conflict,What causes merge conflicts?,Merge conflicts occur when different branches modify the same lines of code.,complex,informal,advanced
+git,branch,How do I create a branch?,Create a new branch with 'git branch branch-name' or 'git checkout -b branch-name'.,medium,formal,beginner
+greeting,welcome,Good morning,Good morning! How can I assist you with version control today?,complex,formal,intermediate
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,simple,formal,intermediate
+git,commit,What's the command to commit?,Use 'git commit' to save your changes. Add a message with -m flag.,simple,technical,beginner
+greeting,welcome,Hey,Hey there! What would you like to learn about Git/GitHub?,simple,formal,advanced
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,medium,informal,advanced
+git,commit,How to write commit messages?,Write clear commit messages describing what changed and why.,simple,formal,beginner
+git,branch,How to switch branches?,Switch branches using 'git checkout branch-name' or 'git switch branch-name'.,simple,technical,intermediate
+git,branch,How to switch branches?,Switch branches using 'git checkout branch-name' or 'git switch branch-name'.,medium,informal,beginner
+git,branch,What is git checkout?,Git checkout is used to switch branches or restore files.,simple,technical,intermediate
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,simple,formal,intermediate
+error,merge_conflict,What causes merge conflicts?,Merge conflicts occur when different branches modify the same lines of code.,simple,formal,intermediate
+git,branch,How do I create a branch?,Create a new branch with 'git branch branch-name' or 'git checkout -b branch-name'.,complex,technical,intermediate
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",complex,technical,beginner
+git,commit,How to modify last commit?,"To modify the last commit, use 'git commit --amend'.",medium,technical,intermediate
+git,commit,What's the command to commit?,Use 'git commit' to save your changes. Add a message with -m flag.,simple,technical,intermediate
+git,commit,What's the command to commit?,Use 'git commit' to save your changes. Add a message with -m flag.,medium,formal,beginner
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,simple,technical,intermediate
+git,branch,How do I create a branch?,Create a new branch with 'git branch branch-name' or 'git checkout -b branch-name'.,medium,informal,advanced
+error,merge_conflict,"Got merge conflict, what now?","Open the conflicting files, choose which changes to keep, then commit.",simple,informal,beginner
+greeting,welcome,Hi there,Hi! I'm here to assist with your Git and GitHub questions.,simple,formal,beginner
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,simple,technical,beginner
+error,merge_conflict,"Got merge conflict, what now?","Open the conflicting files, choose which changes to keep, then commit.",simple,formal,intermediate
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,medium,informal,beginner
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,complex,informal,beginner
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,simple,technical,beginner
+git,branch,What is git checkout?,Git checkout is used to switch branches or restore files.,simple,informal,intermediate
+greeting,welcome,Hey,Hey there! What would you like to learn about Git/GitHub?,medium,informal,beginner
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",medium,technical,beginner
+greeting,welcome,Hey,Hey there! What would you like to learn about Git/GitHub?,simple,technical,advanced
+git,commit,What is git commit -m?,"The -m flag lets you add a commit message directly: git commit -m ""fix: bug fixed""",complex,informal,advanced
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,simple,formal,beginner
+git,commit,How do I commit changes?,"To commit changes, use 'git commit -m ""your message""'.",medium,formal,advanced
+git,commit,How to modify last commit?,"To modify the last commit, use 'git commit --amend'.",simple,technical,intermediate
+error,merge_conflict,What causes merge conflicts?,Merge conflicts occur when different branches modify the same lines of code.,complex,technical,intermediate
+error,merge_conflict,Tools for resolving conflicts?,Use tools like VS Code or GitKraken to resolve conflicts visually.,complex,informal,beginner
+greeting,welcome,Good morning,Good morning! How can I assist you with version control today?,simple,informal,beginner
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,medium,formal,beginner
+git,branch,How to switch branches?,Switch branches using 'git checkout branch-name' or 'git switch branch-name'.,simple,technical,beginner
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,medium,formal,beginner
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,simple,technical,beginner
+error,merge_conflict,What causes merge conflicts?,Merge conflicts occur when different branches modify the same lines of code.,complex,formal,beginner
+git,commit,How to write commit messages?,Write clear commit messages describing what changed and why.,simple,technical,intermediate
+git,commit,How to modify last commit?,"To modify the last commit, use 'git commit --amend'.",simple,formal,beginner
+git,commit,How to modify last commit?,"To modify the last commit, use 'git commit --amend'.",complex,informal,advanced
+git,branch,How do I create a branch?,Create a new branch with 'git branch branch-name' or 'git checkout -b branch-name'.,complex,technical,advanced
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,complex,informal,advanced
+greeting,welcome,Hey,Hey there! What would you like to learn about Git/GitHub?,medium,informal,beginner
+git,branch,How to switch branches?,Switch branches using 'git checkout branch-name' or 'git switch branch-name'.,complex,formal,intermediate
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,simple,informal,advanced
+git,commit,What's the command to commit?,Use 'git commit' to save your changes. Add a message with -m flag.,complex,informal,intermediate
+git,branch,How do I create a branch?,Create a new branch with 'git branch branch-name' or 'git checkout -b branch-name'.,medium,formal,intermediate
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,simple,technical,beginner
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",medium,formal,beginner
+greeting,welcome,Good morning,Good morning! How can I assist you with version control today?,medium,technical,advanced
+git,branch,What is git checkout?,Git checkout is used to switch branches or restore files.,simple,formal,advanced
+greeting,welcome,How are you?,Hello! I'm doing well and ready to help with your questions!,complex,informal,beginner
+greeting,welcome,Hey,Hey there! What would you like to learn about Git/GitHub?,simple,formal,beginner
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",medium,formal,intermediate
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,simple,informal,beginner
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,complex,informal,intermediate
+greeting,welcome,Hello,Hello! How can I help you with Git or GitHub today?,medium,technical,advanced
+greeting,welcome,Hi there,Hi! I'm here to assist with your Git and GitHub questions.,complex,technical,beginner
+greeting,welcome,Hi there,Hi! I'm here to assist with your Git and GitHub questions.,medium,formal,beginner
+git,commit,How to write commit messages?,Write clear commit messages describing what changed and why.,simple,technical,intermediate
+git,branch,How do I create a branch?,Create a new branch with 'git branch branch-name' or 'git checkout -b branch-name'.,simple,informal,advanced
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,simple,formal,advanced
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,complex,informal,advanced
+error,merge_conflict,What causes merge conflicts?,Merge conflicts occur when different branches modify the same lines of code.,complex,formal,beginner
+greeting,welcome,How are you?,Hello! I'm doing well and ready to help with your questions!,simple,formal,advanced
+error,merge_conflict,What causes merge conflicts?,Merge conflicts occur when different branches modify the same lines of code.,simple,formal,intermediate
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",medium,technical,advanced
+greeting,welcome,Hey,Hey there! What would you like to learn about Git/GitHub?,complex,informal,beginner
+git,commit,What's the command to commit?,Use 'git commit' to save your changes. Add a message with -m flag.,complex,informal,advanced
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,medium,informal,advanced
+git,commit,How to write commit messages?,Write clear commit messages describing what changed and why.,medium,informal,intermediate
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,complex,technical,beginner
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",medium,informal,advanced
+greeting,welcome,Good morning,Good morning! How can I assist you with version control today?,complex,formal,intermediate
+greeting,welcome,Hi there,Hi! I'm here to assist with your Git and GitHub questions.,complex,informal,beginner
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,medium,informal,intermediate
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,complex,formal,beginner
+greeting,welcome,Hello,Hello! How can I help you with Git or GitHub today?,complex,informal,beginner
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,complex,technical,intermediate
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,complex,formal,advanced
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",simple,informal,advanced
+error,merge_conflict,What causes merge conflicts?,Merge conflicts occur when different branches modify the same lines of code.,simple,formal,intermediate
+git,commit,What is git commit -m?,"The -m flag lets you add a commit message directly: git commit -m ""fix: bug fixed""",complex,formal,advanced
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,medium,formal,advanced
+error,merge_conflict,What causes merge conflicts?,Merge conflicts occur when different branches modify the same lines of code.,medium,technical,intermediate
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,medium,informal,intermediate
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,simple,informal,intermediate
+greeting,welcome,Hello,Hello! How can I help you with Git or GitHub today?,medium,formal,advanced
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",simple,technical,advanced
+git,commit,What is git commit -m?,"The -m flag lets you add a commit message directly: git commit -m ""fix: bug fixed""",medium,informal,intermediate
+git,commit,What is git commit -m?,"The -m flag lets you add a commit message directly: git commit -m ""fix: bug fixed""",simple,technical,advanced
+error,merge_conflict,How to prevent merge conflicts?,Prevent conflicts by communicating with team and frequently pulling changes.,simple,technical,beginner
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,medium,formal,intermediate
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,medium,informal,advanced
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",medium,formal,beginner
+git,branch,How do I create a branch?,Create a new branch with 'git branch branch-name' or 'git checkout -b branch-name'.,simple,technical,intermediate
+git,commit,What is git commit -m?,"The -m flag lets you add a commit message directly: git commit -m ""fix: bug fixed""",medium,technical,beginner
+error,merge_conflict,Tools for resolving conflicts?,Use tools like VS Code or GitKraken to resolve conflicts visually.,simple,informal,advanced
+git,commit,How do I commit changes?,"To commit changes, use 'git commit -m ""your message""'.",complex,formal,advanced
+greeting,welcome,How are you?,Hello! I'm doing well and ready to help with your questions!,simple,technical,intermediate
+git,branch,What is git checkout?,Git checkout is used to switch branches or restore files.,simple,informal,intermediate
+git,commit,How to write commit messages?,Write clear commit messages describing what changed and why.,simple,informal,advanced
+greeting,welcome,How are you?,Hello! I'm doing well and ready to help with your questions!,simple,informal,intermediate
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,simple,technical,advanced
+error,merge_conflict,What causes merge conflicts?,Merge conflicts occur when different branches modify the same lines of code.,medium,formal,beginner
+git,commit,How to write commit messages?,Write clear commit messages describing what changed and why.,medium,technical,intermediate
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,simple,informal,intermediate
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",complex,formal,beginner
+greeting,welcome,How are you?,Hello! I'm doing well and ready to help with your questions!,simple,technical,beginner
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,complex,informal,advanced
+error,merge_conflict,"Got merge conflict, what now?","Open the conflicting files, choose which changes to keep, then commit.",complex,formal,intermediate
+git,commit,What's the command to commit?,Use 'git commit' to save your changes. Add a message with -m flag.,medium,informal,intermediate
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",simple,technical,advanced
+git,commit,What is git commit -m?,"The -m flag lets you add a commit message directly: git commit -m ""fix: bug fixed""",simple,formal,beginner
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,simple,technical,advanced
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",simple,technical,beginner
+error,merge_conflict,How to prevent merge conflicts?,Prevent conflicts by communicating with team and frequently pulling changes.,medium,formal,beginner
+git,branch,How do I create a branch?,Create a new branch with 'git branch branch-name' or 'git checkout -b branch-name'.,medium,informal,intermediate
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,medium,informal,intermediate
+greeting,welcome,Hey,Hey there! What would you like to learn about Git/GitHub?,simple,formal,advanced
+greeting,welcome,Hello,Hello! How can I help you with Git or GitHub today?,complex,formal,advanced
+error,merge_conflict,How to prevent merge conflicts?,Prevent conflicts by communicating with team and frequently pulling changes.,complex,technical,beginner
+greeting,welcome,Good morning,Good morning! How can I assist you with version control today?,medium,formal,beginner
+error,merge_conflict,How to prevent merge conflicts?,Prevent conflicts by communicating with team and frequently pulling changes.,complex,informal,beginner
+git,commit,What's the command to commit?,Use 'git commit' to save your changes. Add a message with -m flag.,medium,informal,intermediate
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",simple,technical,intermediate
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,complex,formal,beginner
+greeting,welcome,Hello,Hello! How can I help you with Git or GitHub today?,medium,formal,intermediate
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,complex,informal,advanced
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,complex,informal,advanced
+git,branch,How to switch branches?,Switch branches using 'git checkout branch-name' or 'git switch branch-name'.,complex,informal,advanced
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,simple,formal,beginner
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",medium,technical,intermediate
+git,commit,How to modify last commit?,"To modify the last commit, use 'git commit --amend'.",complex,formal,beginner
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",simple,informal,advanced
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,complex,technical,intermediate
+git,commit,What's the command to commit?,Use 'git commit' to save your changes. Add a message with -m flag.,simple,informal,advanced
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,medium,technical,advanced
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",medium,formal,advanced
+git,branch,How do I create a branch?,Create a new branch with 'git branch branch-name' or 'git checkout -b branch-name'.,medium,informal,intermediate
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,simple,technical,advanced
+git,branch,How to switch branches?,Switch branches using 'git checkout branch-name' or 'git switch branch-name'.,medium,informal,intermediate
+greeting,welcome,Hi there,Hi! I'm here to assist with your Git and GitHub questions.,complex,informal,beginner
+greeting,welcome,How are you?,Hello! I'm doing well and ready to help with your questions!,simple,technical,advanced
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",simple,technical,beginner
+git,branch,What is git checkout?,Git checkout is used to switch branches or restore files.,complex,informal,intermediate
+git,branch,How do I create a branch?,Create a new branch with 'git branch branch-name' or 'git checkout -b branch-name'.,simple,informal,intermediate
+error,merge_conflict,How to prevent merge conflicts?,Prevent conflicts by communicating with team and frequently pulling changes.,medium,formal,beginner
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,simple,formal,intermediate
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",simple,technical,advanced
+greeting,welcome,Hi there,Hi! I'm here to assist with your Git and GitHub questions.,medium,technical,intermediate
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,medium,technical,intermediate
+git,commit,How to modify last commit?,"To modify the last commit, use 'git commit --amend'.",simple,informal,beginner
+greeting,welcome,How are you?,Hello! I'm doing well and ready to help with your questions!,simple,informal,advanced
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,complex,formal,advanced
+error,merge_conflict,What causes merge conflicts?,Merge conflicts occur when different branches modify the same lines of code.,medium,formal,beginner
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,simple,formal,advanced
+greeting,welcome,How are you?,Hello! I'm doing well and ready to help with your questions!,simple,formal,beginner
+git,commit,How do I commit changes?,"To commit changes, use 'git commit -m ""your message""'.",complex,informal,intermediate
+error,merge_conflict,"Got merge conflict, what now?","Open the conflicting files, choose which changes to keep, then commit.",simple,technical,intermediate
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,simple,formal,intermediate
+git,commit,What is git commit -m?,"The -m flag lets you add a commit message directly: git commit -m ""fix: bug fixed""",simple,informal,advanced
+git,commit,What is git commit -m?,"The -m flag lets you add a commit message directly: git commit -m ""fix: bug fixed""",medium,informal,advanced
+git,commit,What is git commit -m?,"The -m flag lets you add a commit message directly: git commit -m ""fix: bug fixed""",medium,informal,beginner
+git,branch,How to switch branches?,Switch branches using 'git checkout branch-name' or 'git switch branch-name'.,medium,technical,advanced
+git,commit,How do I commit changes?,"To commit changes, use 'git commit -m ""your message""'.",complex,technical,beginner
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",complex,formal,beginner
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",complex,informal,intermediate
+error,merge_conflict,Tools for resolving conflicts?,Use tools like VS Code or GitKraken to resolve conflicts visually.,complex,informal,intermediate
+greeting,welcome,Hey,Hey there! What would you like to learn about Git/GitHub?,simple,informal,beginner
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,simple,technical,beginner
+git,branch,How do I create a branch?,Create a new branch with 'git branch branch-name' or 'git checkout -b branch-name'.,complex,informal,advanced
+error,merge_conflict,How to prevent merge conflicts?,Prevent conflicts by communicating with team and frequently pulling changes.,medium,technical,advanced
+error,merge_conflict,"Got merge conflict, what now?","Open the conflicting files, choose which changes to keep, then commit.",complex,informal,advanced
+greeting,welcome,Hey,Hey there! What would you like to learn about Git/GitHub?,complex,technical,advanced
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,complex,technical,advanced
+greeting,welcome,How are you?,Hello! I'm doing well and ready to help with your questions!,complex,formal,beginner
+greeting,welcome,Hello,Hello! How can I help you with Git or GitHub today?,complex,technical,intermediate
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",complex,informal,beginner
+error,merge_conflict,What causes merge conflicts?,Merge conflicts occur when different branches modify the same lines of code.,simple,formal,advanced
+greeting,welcome,Hello,Hello! How can I help you with Git or GitHub today?,medium,formal,advanced
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",medium,formal,advanced
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,simple,informal,intermediate
+git,commit,How to modify last commit?,"To modify the last commit, use 'git commit --amend'.",simple,technical,intermediate
+error,merge_conflict,Tools for resolving conflicts?,Use tools like VS Code or GitKraken to resolve conflicts visually.,medium,informal,intermediate
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",simple,formal,advanced
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,medium,informal,intermediate
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",complex,informal,intermediate
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,simple,formal,intermediate
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,simple,technical,intermediate
+git,branch,What is git checkout?,Git checkout is used to switch branches or restore files.,medium,informal,beginner
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",simple,formal,beginner
+git,branch,How to switch branches?,Switch branches using 'git checkout branch-name' or 'git switch branch-name'.,simple,informal,advanced
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,simple,formal,advanced
+git,branch,How to switch branches?,Switch branches using 'git checkout branch-name' or 'git switch branch-name'.,simple,informal,advanced
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",complex,formal,intermediate
+greeting,welcome,Hi there,Hi! I'm here to assist with your Git and GitHub questions.,simple,technical,beginner
+git,branch,What is git checkout?,Git checkout is used to switch branches or restore files.,medium,formal,intermediate
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,medium,informal,intermediate
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,simple,informal,beginner
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",medium,technical,advanced
+greeting,welcome,Hi there,Hi! I'm here to assist with your Git and GitHub questions.,medium,technical,beginner
+error,merge_conflict,"Got merge conflict, what now?","Open the conflicting files, choose which changes to keep, then commit.",simple,technical,advanced
+greeting,welcome,Good morning,Good morning! How can I assist you with version control today?,simple,technical,beginner
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",medium,formal,advanced
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",simple,technical,advanced
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",medium,technical,beginner
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",complex,informal,beginner
+error,merge_conflict,What causes merge conflicts?,Merge conflicts occur when different branches modify the same lines of code.,complex,formal,intermediate
+greeting,welcome,Hi there,Hi! I'm here to assist with your Git and GitHub questions.,medium,informal,intermediate
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,medium,formal,advanced
+greeting,welcome,Good morning,Good morning! How can I assist you with version control today?,simple,technical,beginner
+error,merge_conflict,What causes merge conflicts?,Merge conflicts occur when different branches modify the same lines of code.,simple,informal,intermediate
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",medium,formal,intermediate
+git,commit,What's the command to commit?,Use 'git commit' to save your changes. Add a message with -m flag.,complex,technical,advanced
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,simple,formal,beginner
+greeting,welcome,Hi there,Hi! I'm here to assist with your Git and GitHub questions.,complex,technical,advanced
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",medium,formal,advanced
+error,merge_conflict,"Got merge conflict, what now?","Open the conflicting files, choose which changes to keep, then commit.",simple,formal,intermediate
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,complex,informal,beginner
+error,merge_conflict,Tools for resolving conflicts?,Use tools like VS Code or GitKraken to resolve conflicts visually.,medium,formal,advanced
+git,commit,How do I commit changes?,"To commit changes, use 'git commit -m ""your message""'.",complex,formal,beginner
+greeting,welcome,Hi there,Hi! I'm here to assist with your Git and GitHub questions.,complex,formal,beginner
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",complex,formal,advanced
+error,merge_conflict,What causes merge conflicts?,Merge conflicts occur when different branches modify the same lines of code.,complex,technical,advanced
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",medium,informal,beginner
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,medium,technical,advanced
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,complex,informal,intermediate
+error,merge_conflict,Tools for resolving conflicts?,Use tools like VS Code or GitKraken to resolve conflicts visually.,medium,informal,intermediate
+git,commit,What is git commit -m?,"The -m flag lets you add a commit message directly: git commit -m ""fix: bug fixed""",complex,informal,advanced
+git,commit,How to write commit messages?,Write clear commit messages describing what changed and why.,medium,informal,beginner
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,simple,technical,intermediate
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,medium,informal,intermediate
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",medium,informal,intermediate
+git,commit,How do I commit changes?,"To commit changes, use 'git commit -m ""your message""'.",complex,technical,intermediate
+git,commit,How to write commit messages?,Write clear commit messages describing what changed and why.,complex,formal,intermediate
+greeting,welcome,How are you?,Hello! I'm doing well and ready to help with your questions!,simple,formal,intermediate
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,medium,formal,advanced
+greeting,welcome,Good morning,Good morning! How can I assist you with version control today?,simple,formal,beginner
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",simple,formal,beginner
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,medium,technical,beginner
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",simple,formal,advanced
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,medium,informal,intermediate
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",simple,informal,advanced
+git,branch,How to switch branches?,Switch branches using 'git checkout branch-name' or 'git switch branch-name'.,simple,technical,intermediate
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",simple,technical,beginner
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,medium,informal,intermediate
+greeting,welcome,Hi there,Hi! I'm here to assist with your Git and GitHub questions.,medium,technical,beginner
+greeting,welcome,Hello,Hello! How can I help you with Git or GitHub today?,medium,informal,beginner
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,medium,formal,advanced
+greeting,welcome,Hi there,Hi! I'm here to assist with your Git and GitHub questions.,complex,formal,intermediate
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,complex,formal,intermediate
+error,merge_conflict,"Got merge conflict, what now?","Open the conflicting files, choose which changes to keep, then commit.",complex,informal,intermediate
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",medium,formal,intermediate
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,medium,informal,intermediate
+greeting,welcome,How are you?,Hello! I'm doing well and ready to help with your questions!,medium,informal,beginner
+git,branch,How do I create a branch?,Create a new branch with 'git branch branch-name' or 'git checkout -b branch-name'.,medium,formal,beginner
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",simple,formal,advanced
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",complex,formal,beginner
+greeting,welcome,Hey,Hey there! What would you like to learn about Git/GitHub?,medium,formal,advanced
+git,commit,How to modify last commit?,"To modify the last commit, use 'git commit --amend'.",complex,informal,advanced
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",complex,formal,advanced
+git,branch,What is git checkout?,Git checkout is used to switch branches or restore files.,simple,formal,beginner
+greeting,welcome,Hello,Hello! How can I help you with Git or GitHub today?,medium,technical,advanced
+error,merge_conflict,What causes merge conflicts?,Merge conflicts occur when different branches modify the same lines of code.,complex,technical,intermediate
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,complex,informal,beginner
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,complex,informal,intermediate
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,simple,technical,beginner
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",complex,formal,beginner
+error,merge_conflict,"Got merge conflict, what now?","Open the conflicting files, choose which changes to keep, then commit.",medium,technical,advanced
+git,commit,How to write commit messages?,Write clear commit messages describing what changed and why.,simple,technical,beginner
+git,branch,How do I create a branch?,Create a new branch with 'git branch branch-name' or 'git checkout -b branch-name'.,complex,technical,advanced
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",complex,formal,beginner
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,complex,informal,advanced
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",simple,formal,intermediate
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,medium,technical,intermediate
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,medium,informal,beginner
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,complex,informal,beginner
+error,merge_conflict,What causes merge conflicts?,Merge conflicts occur when different branches modify the same lines of code.,medium,informal,beginner
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",complex,formal,intermediate
+git,commit,How do I commit changes?,"To commit changes, use 'git commit -m ""your message""'.",medium,technical,intermediate
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,medium,informal,beginner
+greeting,welcome,Hello,Hello! How can I help you with Git or GitHub today?,complex,formal,intermediate
+git,commit,How to write commit messages?,Write clear commit messages describing what changed and why.,medium,informal,advanced
+greeting,welcome,Good morning,Good morning! How can I assist you with version control today?,medium,informal,advanced
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,simple,technical,beginner
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",simple,informal,advanced
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,medium,technical,beginner
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",complex,formal,intermediate
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,complex,formal,beginner
+error,merge_conflict,"Got merge conflict, what now?","Open the conflicting files, choose which changes to keep, then commit.",complex,informal,advanced
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",simple,informal,advanced
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,simple,formal,beginner
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",simple,formal,intermediate
+git,commit,What is git commit -m?,"The -m flag lets you add a commit message directly: git commit -m ""fix: bug fixed""",medium,formal,intermediate
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,medium,informal,advanced
+git,branch,How to switch branches?,Switch branches using 'git checkout branch-name' or 'git switch branch-name'.,simple,technical,advanced
+git,branch,What is git checkout?,Git checkout is used to switch branches or restore files.,simple,formal,beginner
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",complex,informal,beginner
+git,branch,What is git checkout?,Git checkout is used to switch branches or restore files.,complex,formal,intermediate
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,medium,informal,intermediate
+git,commit,How to modify last commit?,"To modify the last commit, use 'git commit --amend'.",medium,formal,beginner
+git,branch,How do I create a branch?,Create a new branch with 'git branch branch-name' or 'git checkout -b branch-name'.,complex,technical,intermediate
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,medium,informal,advanced
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",complex,technical,advanced
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,medium,technical,beginner
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,medium,informal,advanced
+git,commit,What's the command to commit?,Use 'git commit' to save your changes. Add a message with -m flag.,medium,technical,advanced
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",medium,informal,beginner
+greeting,welcome,Hey,Hey there! What would you like to learn about Git/GitHub?,medium,informal,intermediate
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,simple,formal,advanced
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,complex,informal,beginner
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,medium,informal,advanced
+greeting,welcome,Hi there,Hi! I'm here to assist with your Git and GitHub questions.,medium,technical,intermediate
+git,commit,What is git commit -m?,"The -m flag lets you add a commit message directly: git commit -m ""fix: bug fixed""",medium,informal,beginner
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",simple,formal,beginner
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,complex,technical,intermediate
+git,commit,How to modify last commit?,"To modify the last commit, use 'git commit --amend'.",simple,formal,advanced
+git,commit,How to modify last commit?,"To modify the last commit, use 'git commit --amend'.",complex,informal,beginner
+greeting,welcome,Hello,Hello! How can I help you with Git or GitHub today?,simple,technical,beginner
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,simple,formal,advanced
+greeting,welcome,Hey,Hey there! What would you like to learn about Git/GitHub?,simple,formal,intermediate
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",complex,informal,beginner
+git,branch,How to switch branches?,Switch branches using 'git checkout branch-name' or 'git switch branch-name'.,simple,informal,beginner
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,medium,formal,intermediate
+git,commit,How to write commit messages?,Write clear commit messages describing what changed and why.,complex,informal,intermediate
+greeting,welcome,Good morning,Good morning! How can I assist you with version control today?,simple,technical,intermediate
+greeting,welcome,Hello,Hello! How can I help you with Git or GitHub today?,simple,technical,beginner
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,medium,technical,advanced
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,complex,formal,intermediate
+git,branch,How do I create a branch?,Create a new branch with 'git branch branch-name' or 'git checkout -b branch-name'.,medium,informal,beginner
+greeting,welcome,Good morning,Good morning! How can I assist you with version control today?,complex,informal,intermediate
+git,branch,What is git checkout?,Git checkout is used to switch branches or restore files.,medium,technical,beginner
+git,branch,What is git checkout?,Git checkout is used to switch branches or restore files.,medium,formal,intermediate
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,simple,technical,beginner
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,complex,formal,beginner
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",complex,informal,advanced
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",simple,informal,intermediate
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,simple,formal,intermediate
+error,merge_conflict,How to prevent merge conflicts?,Prevent conflicts by communicating with team and frequently pulling changes.,medium,formal,advanced
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,simple,informal,intermediate
+error,merge_conflict,What causes merge conflicts?,Merge conflicts occur when different branches modify the same lines of code.,complex,formal,intermediate
+error,merge_conflict,How to prevent merge conflicts?,Prevent conflicts by communicating with team and frequently pulling changes.,complex,informal,advanced
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,complex,informal,advanced
+git,branch,How do I create a branch?,Create a new branch with 'git branch branch-name' or 'git checkout -b branch-name'.,complex,technical,advanced
+greeting,welcome,Hi there,Hi! I'm here to assist with your Git and GitHub questions.,complex,formal,beginner
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,simple,technical,intermediate
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,complex,formal,beginner
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,simple,informal,advanced
+error,merge_conflict,What causes merge conflicts?,Merge conflicts occur when different branches modify the same lines of code.,medium,informal,beginner
+error,merge_conflict,What causes merge conflicts?,Merge conflicts occur when different branches modify the same lines of code.,medium,formal,advanced
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,complex,technical,advanced
+error,merge_conflict,Tools for resolving conflicts?,Use tools like VS Code or GitKraken to resolve conflicts visually.,complex,formal,advanced
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,simple,formal,beginner
+git,commit,What is git commit -m?,"The -m flag lets you add a commit message directly: git commit -m ""fix: bug fixed""",simple,formal,intermediate
+greeting,welcome,How are you?,Hello! I'm doing well and ready to help with your questions!,simple,informal,beginner
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,simple,formal,beginner
+git,commit,How do I commit changes?,"To commit changes, use 'git commit -m ""your message""'.",complex,technical,intermediate
+greeting,welcome,How are you?,Hello! I'm doing well and ready to help with your questions!,medium,informal,advanced
+greeting,welcome,Hey,Hey there! What would you like to learn about Git/GitHub?,medium,technical,intermediate
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,complex,formal,beginner
+git,commit,What's the command to commit?,Use 'git commit' to save your changes. Add a message with -m flag.,simple,informal,beginner
+greeting,welcome,Good morning,Good morning! How can I assist you with version control today?,medium,formal,advanced
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",complex,technical,beginner
+greeting,welcome,How are you?,Hello! I'm doing well and ready to help with your questions!,complex,formal,intermediate
+greeting,welcome,Hello,Hello! How can I help you with Git or GitHub today?,complex,technical,beginner
+greeting,welcome,Good morning,Good morning! How can I assist you with version control today?,medium,formal,advanced
+greeting,welcome,Good morning,Good morning! How can I assist you with version control today?,medium,technical,advanced
+git,branch,How to switch branches?,Switch branches using 'git checkout branch-name' or 'git switch branch-name'.,simple,formal,beginner
+git,branch,How to switch branches?,Switch branches using 'git checkout branch-name' or 'git switch branch-name'.,complex,informal,intermediate
+greeting,welcome,Good morning,Good morning! How can I assist you with version control today?,medium,informal,beginner
+git,branch,How do I create a branch?,Create a new branch with 'git branch branch-name' or 'git checkout -b branch-name'.,simple,formal,beginner
+greeting,welcome,How are you?,Hello! I'm doing well and ready to help with your questions!,complex,formal,advanced
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",simple,informal,beginner
+git,branch,What is git checkout?,Git checkout is used to switch branches or restore files.,medium,formal,intermediate
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,complex,formal,beginner
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,simple,informal,advanced
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,complex,technical,beginner
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,complex,technical,beginner
+greeting,welcome,Good morning,Good morning! How can I assist you with version control today?,medium,technical,beginner
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,medium,informal,beginner
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,complex,technical,intermediate
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,medium,formal,intermediate
+greeting,welcome,Hey,Hey there! What would you like to learn about Git/GitHub?,medium,technical,intermediate
+greeting,welcome,Good morning,Good morning! How can I assist you with version control today?,simple,informal,beginner
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,complex,technical,intermediate
+error,merge_conflict,How to prevent merge conflicts?,Prevent conflicts by communicating with team and frequently pulling changes.,complex,technical,intermediate
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,medium,formal,advanced
+error,merge_conflict,How to prevent merge conflicts?,Prevent conflicts by communicating with team and frequently pulling changes.,medium,informal,intermediate
+greeting,welcome,How are you?,Hello! I'm doing well and ready to help with your questions!,simple,technical,advanced
+git,branch,What is git checkout?,Git checkout is used to switch branches or restore files.,complex,technical,beginner
+git,commit,How do I commit changes?,"To commit changes, use 'git commit -m ""your message""'.",complex,formal,beginner
+error,merge_conflict,How to prevent merge conflicts?,Prevent conflicts by communicating with team and frequently pulling changes.,medium,informal,beginner
+greeting,welcome,Good morning,Good morning! How can I assist you with version control today?,complex,informal,advanced
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",simple,informal,beginner
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,medium,informal,intermediate
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,simple,formal,advanced
+git,branch,How to switch branches?,Switch branches using 'git checkout branch-name' or 'git switch branch-name'.,simple,technical,advanced
+git,commit,What's the command to commit?,Use 'git commit' to save your changes. Add a message with -m flag.,simple,informal,advanced
+greeting,welcome,Hi there,Hi! I'm here to assist with your Git and GitHub questions.,complex,formal,intermediate
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",complex,formal,intermediate
+git,branch,How do I create a branch?,Create a new branch with 'git branch branch-name' or 'git checkout -b branch-name'.,simple,formal,beginner
+greeting,welcome,Hey,Hey there! What would you like to learn about Git/GitHub?,medium,technical,advanced
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",complex,technical,intermediate
+git,commit,What's the command to commit?,Use 'git commit' to save your changes. Add a message with -m flag.,medium,formal,beginner
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",medium,technical,beginner
+error,merge_conflict,Tools for resolving conflicts?,Use tools like VS Code or GitKraken to resolve conflicts visually.,complex,informal,advanced
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",simple,formal,beginner
+error,merge_conflict,Tools for resolving conflicts?,Use tools like VS Code or GitKraken to resolve conflicts visually.,medium,technical,beginner
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,simple,technical,intermediate
+git,commit,What is git commit -m?,"The -m flag lets you add a commit message directly: git commit -m ""fix: bug fixed""",medium,informal,intermediate
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,simple,informal,intermediate
+greeting,welcome,Hi there,Hi! I'm here to assist with your Git and GitHub questions.,medium,technical,advanced
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",medium,technical,beginner
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",simple,formal,intermediate
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",medium,informal,intermediate
+greeting,welcome,Hi there,Hi! I'm here to assist with your Git and GitHub questions.,simple,formal,intermediate
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,simple,informal,beginner
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",medium,informal,beginner
+error,merge_conflict,What causes merge conflicts?,Merge conflicts occur when different branches modify the same lines of code.,medium,technical,beginner
+greeting,welcome,How are you?,Hello! I'm doing well and ready to help with your questions!,complex,technical,intermediate
+git,commit,How to write commit messages?,Write clear commit messages describing what changed and why.,simple,informal,advanced
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",simple,informal,advanced
+git,commit,How to write commit messages?,Write clear commit messages describing what changed and why.,complex,formal,beginner
+git,branch,How to switch branches?,Switch branches using 'git checkout branch-name' or 'git switch branch-name'.,simple,formal,advanced
+git,commit,What's the command to commit?,Use 'git commit' to save your changes. Add a message with -m flag.,complex,formal,beginner
+greeting,welcome,Hi there,Hi! I'm here to assist with your Git and GitHub questions.,simple,informal,beginner
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,complex,informal,intermediate
+error,merge_conflict,How to prevent merge conflicts?,Prevent conflicts by communicating with team and frequently pulling changes.,medium,formal,beginner
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,medium,informal,advanced
+error,merge_conflict,What causes merge conflicts?,Merge conflicts occur when different branches modify the same lines of code.,medium,technical,advanced
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",medium,technical,intermediate
+error,merge_conflict,What causes merge conflicts?,Merge conflicts occur when different branches modify the same lines of code.,simple,technical,intermediate
+greeting,welcome,Hey,Hey there! What would you like to learn about Git/GitHub?,complex,informal,beginner
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",simple,informal,beginner
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,complex,technical,advanced
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,medium,technical,intermediate
+git,commit,What's the command to commit?,Use 'git commit' to save your changes. Add a message with -m flag.,complex,informal,intermediate
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,medium,formal,advanced
+error,merge_conflict,"Got merge conflict, what now?","Open the conflicting files, choose which changes to keep, then commit.",medium,technical,beginner
+git,commit,How to write commit messages?,Write clear commit messages describing what changed and why.,medium,formal,advanced
+error,merge_conflict,How to prevent merge conflicts?,Prevent conflicts by communicating with team and frequently pulling changes.,simple,formal,beginner
+git,commit,How to write commit messages?,Write clear commit messages describing what changed and why.,medium,formal,advanced
+git,branch,What is git checkout?,Git checkout is used to switch branches or restore files.,simple,formal,advanced
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,simple,formal,intermediate
+error,merge_conflict,"Got merge conflict, what now?","Open the conflicting files, choose which changes to keep, then commit.",complex,technical,advanced
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,simple,formal,advanced
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",medium,formal,intermediate
+git,commit,How to write commit messages?,Write clear commit messages describing what changed and why.,complex,formal,advanced
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",simple,formal,intermediate
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",medium,formal,advanced
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,medium,formal,beginner
+git,branch,How do I create a branch?,Create a new branch with 'git branch branch-name' or 'git checkout -b branch-name'.,simple,informal,advanced
+error,merge_conflict,How to resolve merge conflicts?,"Resolve conflicts by editing the conflicting files, then git add and commit.",medium,informal,advanced
+git,commit,What's the command to commit?,Use 'git commit' to save your changes. Add a message with -m flag.,simple,technical,beginner
+git,branch,How to rename a branch?,Rename a branch using 'git branch -m new-name'.,medium,formal,beginner
+greeting,welcome,Hello,Hello! How can I help you with Git or GitHub today?,medium,technical,beginner
+greeting,welcome,Hey,Hey there! What would you like to learn about Git/GitHub?,medium,formal,advanced
+error,merge_conflict,Tools for resolving conflicts?,Use tools like VS Code or GitKraken to resolve conflicts visually.,medium,formal,beginner
+git,commit,How to write commit messages?,Write clear commit messages describing what changed and why.,simple,informal,advanced
+github,pull_request,What is a PR?,A PR (Pull Request) is a way to propose changes to a repository.,complex,formal,beginner
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",complex,technical,intermediate
+error,merge_conflict,"Got merge conflict, what now?","Open the conflicting files, choose which changes to keep, then commit.",medium,informal,intermediate
+git,commit,What is git commit -m?,"The -m flag lets you add a commit message directly: git commit -m ""fix: bug fixed""",medium,informal,beginner
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,medium,informal,intermediate
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",medium,formal,intermediate
+greeting,welcome,Hey,Hey there! What would you like to learn about Git/GitHub?,medium,formal,advanced
+greeting,welcome,Hello,Hello! How can I help you with Git or GitHub today?,medium,technical,beginner
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,simple,informal,advanced
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",complex,formal,advanced
+git,branch,How to delete a branch?,Delete a branch with 'git branch -d branch-name'.,medium,informal,advanced
+greeting,welcome,Hey,Hey there! What would you like to learn about Git/GitHub?,medium,technical,beginner
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,simple,formal,beginner
+greeting,welcome,Good morning,Good morning! How can I assist you with version control today?,medium,technical,beginner
+github,pull_request,How do I create a pull request?,Create a PR by pushing your branch and clicking 'New pull request' on GitHub.,medium,formal,intermediate
+error,merge_conflict,How to prevent merge conflicts?,Prevent conflicts by communicating with team and frequently pulling changes.,simple,formal,intermediate
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",complex,technical,advanced
+greeting,welcome,Hey,Hey there! What would you like to learn about Git/GitHub?,medium,technical,beginner
+git,commit,What's the command to commit?,Use 'git commit' to save your changes. Add a message with -m flag.,simple,formal,intermediate
+greeting,welcome,Hi there,Hi! I'm here to assist with your Git and GitHub questions.,complex,formal,intermediate
+github,pull_request,How to review PRs?,"Review PRs by examining code changes, leaving comments, and suggesting improvements.",simple,informal,beginner
+github,pull_request,Can I modify a pull request?,"Yes, you can modify a PR by pushing new commits to its branch.",simple,formal,advanced
+github,pull_request,How to merge a pull request?,Merge a pull request by clicking the 'Merge' button after review.,complex,technical,beginner
