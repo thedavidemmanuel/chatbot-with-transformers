@@ -35,7 +35,6 @@ chatbot-with-transformers/
 ├── data/
 │   └── chatbot.csv
 ├── app.py                    # Streamlit interface
-├── chatbot.ipynb            # Development notebook
 ├── gitbot.ipynb             # Training notebook
 ├── github_chatbot_model.h5  # Trained model
 ├── github_classes.pkl       # Saved classes
