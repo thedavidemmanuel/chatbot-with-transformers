@@ -56,7 +56,7 @@ A BERT-based chatbot implementation trained to handle GitHub-related queries. Th
 ```
 chatbot-with-transformers/
 ├── data/
-│   └── chatbot.csv         # Training dataset
+│   └── gitbotdataset.csv         # Training dataset
 ├── app.py                  # Streamlit interface
 ├── gitbot.ipynb           # Training notebook
 ├── github_chatbot_model.h5
